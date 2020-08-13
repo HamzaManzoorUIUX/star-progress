@@ -1,0 +1,11 @@
+#Rectangle_1122{
+  animation: myAnima 5s linear 0s 1 forwards;
+}
+@keyframes myAnima{
+  0%{
+    width: 0;
+  }
+  100%{
+    width: 180px;
+  }
+}
